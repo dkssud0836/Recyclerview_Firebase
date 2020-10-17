@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065892571048",
+    "firebase_url": "https://ondam2020-5195a.firebaseio.com",
+    "project_id": "ondam2020-5195a",
+    "storage_bucket": "ondam2020-5195a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065892571048:android:f9d2929661a55c24215f9d",
+        "android_client_info": {
+          "package_name": "com.example.recyclerview_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065892571048-uujtkhqtl36afchm79004fnvtlar8g52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwHQ6z32XnPfbMhtjpqdJ326otsiUfrtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065892571048-uujtkhqtl36afchm79004fnvtlar8g52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
